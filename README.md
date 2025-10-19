@@ -1,4 +1,4 @@
-# 🧠 Customer Churn Prediction — ANN Implementation (Streamlit App)
+# 🧠 Customer Churn Prediction — Classification ANN Implementation (Streamlit App)
 
 ## 📘 Project Overview
 The **Customer Churn Prediction** project aims to predict whether a customer is likely to leave a telecom company or continue using its services.  
@@ -129,3 +129,6 @@ To deploy:
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
+``` 
+
+I updated the main heading to add the word "Classification" in front of "ANN Implementation" as requested. If you want the change committed to the repository, I can push this update or open a PR — tell me if you'd like me to proceed and whether to update other occurrences (e.g., folder names or repository title) as well.
